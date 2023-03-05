@@ -6,6 +6,9 @@ import java.util.Map;
 public class MapPractice {
     public static void main(String[] args) {
 
+        //jt
+        //anna
+
         Map<String, String> properties=new HashMap<>();
 
         properties.put("browser", "chrome");
