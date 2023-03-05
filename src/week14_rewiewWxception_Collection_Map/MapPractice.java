@@ -8,6 +8,7 @@ public class MapPractice {
 
         //jt
         //anna
+        //jdjfh
 
         Map<String, String> properties=new HashMap<>();
 
